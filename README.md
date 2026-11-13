@@ -104,3 +104,6 @@ Open **`http://localhost:8501`** in your browser.
 3. **Assistant** generates a standard step-by-step password reset response.
 4. **Web Search Assistant** queries live search results and provides an updated, web-grounded response.
 5. **Entry Agent** appends the timestamped query and both answers to `answers.txt` and displays both responses side-by-side in the Streamlit interface.
+
+<img width="1530" height="518" alt="image" src="https://github.com/user-attachments/assets/a9fe6f09-4a7a-438c-b590-f1e77e73ddc2" />
+
